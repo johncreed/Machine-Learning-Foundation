@@ -1,0 +1,5 @@
+Accuracy = 88.8391% (1783/2007) (classification)
+Accuracy = 90.1345% (1809/2007) (classification)
+Accuracy = 90.0349% (1807/2007) (classification)
+Accuracy = 91.5296% (1837/2007) (classification)
+Accuracy = 91.7289% (1841/2007) (classification)
